@@ -8,15 +8,7 @@ categories: Intro
 
 ## La Belle epoque
 
-![bellepoque](./aseets/images/belleepoque.jpg)
-
-![bellepoque2](../aseets/images/belleepoque.jpg)
-
-![bellepoque3](./aseets/images/scikit.png)
-
-![bellepoque4](../aseets/images/scikit.png)
-
-[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+![bellepoque](/assets/images/belleepoque.jpg)
 
 
 아름다운 시절 이라는 프랑스의 단어로 제국주의 시절 평화와 번영을 회상하는 말. JTBC 드라마 청춘시대의 1, 2의 쉐어하우스에서 영감을 받음
@@ -30,4 +22,8 @@ categories: Intro
 
 성격: 다반사에 관심이 많음. 관심있는 것이 매우 붙타올랐다가 금방식는 금사빠.
 
-블로그의 지향성: ① 나의 생각 조각들을 적자. ② 내가 읽은 컨텐츠, 경험한 것을 글로 남기자.
+블로그의 지향성: ① 나의 생각 조각들을 적자. ② 내가 읽은 컨텐츠, 경험한 것을 글로 남기자
+
+티스토리 블로그를 만든지 약 10년째.
+과거의글을 많이 적었었지만 한계에 봉착하여 + 이직으로 인하여 새로운 블로그를 만들게 되었다.
+찬찬히 기술 + 일기 내용들을 업로드할 예정이다.
