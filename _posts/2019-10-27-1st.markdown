@@ -1,7 +1,7 @@
 ---
 title: "블로그를 시작하며"
 date: 2017-10-27  08:26:28 -0400
-categories: jekyll update
+categories: Intro
 ---
 
 티스토리 블로그를 만든지 약 10년째.

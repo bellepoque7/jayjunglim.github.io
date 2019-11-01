@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "프로그래밍이 재밌는 분석가"
   location         : "Korea"
-  email            : snowgot@gmail.com
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

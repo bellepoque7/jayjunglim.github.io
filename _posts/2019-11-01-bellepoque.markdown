@@ -1,7 +1,7 @@
 ---
 title: "Intro"
 date: 2017-11-01  09:50:00 -0400
-categories: jekyll update
+categories: Intro
 ---
 
 # 소개
