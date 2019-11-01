@@ -7,12 +7,24 @@ categories: Intro
 # 소개
 
 ## La Belle epoque
-아름다운 시절 이라는 프랑스의 단어로 제국주의 시절 평화와 번영을 회상하는 말 . JTBC 드라마 청춘시대의 1, 2의 쉐어하우스에서 영감을 받음
 
-전공: 화학생명공(학사) 생리학전공 (석사)
+![bellepoque](./aseets/images/belleepoque.jpg)
 
-직업: 데이터 분석가 @라인웍스 (https://linewalks.com/)
-(공학 자연과학을 공부했는데 정작 일은 데분..)
+![bellepoque2](../aseets/images/belleepoque.jpg)
+
+![bellepoque3](./aseets/images/scikit.png)
+
+![bellepoque4](../aseets/images/scikit.png)
+
+[![Vue](/images/vue.png)](https://kr.vuejs.org/)
+
+
+아름다운 시절 이라는 프랑스의 단어로 제국주의 시절 평화와 번영을 회상하는 말. JTBC 드라마 청춘시대의 1, 2의 쉐어하우스에서 영감을 받음
+
+전공: 화학생명공(학사) 의약화학(석사)
+
+직업: 데이터 분석가 [@라인웍스](https://linewalks.com/)
+~~(공학 자연과학을 공부했는데 정작 일은 데분..)~~
 
 관심 Domain: 의약학 / 개발 / 경제 / 스타트업 / 경영 / 미술전시회 / 독서 등
 
