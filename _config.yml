@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "개발, 켄텐츠 블로그"
+title                    : "오늘은 뭘 해볼까"   # 블로그 이름
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "bellepoque7"
-description              : "La Bellepoque"
+description              : "La Bellepoque"  # 사이트의 간단한 설명
 url                      : "https://jayjunglim.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -29,6 +29,8 @@ logo                     : "/assets/images/scikit.png" #path of logo image to di
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+
+# 코멘트 설정 부분
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -65,9 +67,11 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+# 사이트내 검색 설정
 search                   : true #, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_full_content      : true #, false (default)
+search_provider          : lunr # (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -76,7 +80,8 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-# SEO Related
+
+ # SEO Related
 google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
@@ -97,7 +102,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
+# Analytics, 구글 애널리틱스 설정
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
@@ -105,13 +110,13 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author, 사이트 소유자에 대한 설명
 author:
   name             : "jayjunglim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "프로그래밍이 재밌는 분석가"
+  bio              : "일단 해보자"
   location         : "Korea"
-  email            : 
+  email            : "snowgot@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -279,7 +284,7 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Defaults, Front Matter 설정
 defaults:
   # _posts
   - scope:
