@@ -5,7 +5,7 @@ categories: Python Pandas
 ---
 
 
-# Pandas
+# Pandas 기본구조
 
 Pandas는  Python에서 가장 많이 쓰이는 데이터 프레임워크로, 윈도우로 따지면 Excel이나 DataBase에서는 SQL과 비슷한 역할을 한다.~~물론 내부구조와 속도는 매우 다르다~~
 
@@ -19,10 +19,15 @@ Pandas를 모른다면 [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet
 
 ## 1. DataFrame 만들기
 
-```
-import pandas as pd
-pd.DataFrame("a" : ["가","나","다"], "b" : [10,20,30], index = [1,2,3])
-```
+![pic2](2019-11-09-20-51-28.png)
 
 DataFrame은 기본적으로 표이기 때문에 행(인덱스), 컬럼, 값만 넣어주면 쉽게 만들 수 있다.
 
+## 2. coulmn 선택하기
+
+![pic3](2019-11-09-20-51-58.png)
+
+## 3. row  선택하기
+
+
+![pic4](2019-11-09-20-53-14.png)
