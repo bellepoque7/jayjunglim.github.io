@@ -14,20 +14,19 @@ Pandas는 데이터분석을 위해서 기본적으로 익히는 라이브러리
 Pandas를 모른다면 [CheatSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 로 알음 알음 알아가는 것도 방법 이다.
 
-![Cheatsheet](2019-11-09-18-34-06.png)
-
+![Cheatsheet](/assets/images/2019-11-09-18-34-06.png)
 
 ## 1. DataFrame 만들기
 
-![pic2](2019-11-09-20-51-28.png)
+![pic2](/assets/images/2019-11-09-20-51-28.png)
 
 DataFrame은 기본적으로 표이기 때문에 행(인덱스), 컬럼, 값만 넣어주면 쉽게 만들 수 있다.
 
 ## 2. coulmn 선택하기
 
-![pic3](2019-11-09-20-51-58.png)
+![pic3](/assets/images/2019-11-09-20-51-58.png)
 
 ## 3. row  선택하기
 
 
-![pic4](2019-11-09-20-53-14.png)
+![pic4](/assets/images/2019-11-09-20-53-14.png)
