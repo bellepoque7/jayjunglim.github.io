@@ -104,9 +104,9 @@ social:
 
 # Analytics, 구글 애널리틱스 설정
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-123544071-3"
     anonymize_ip         : # true, false (default)
 
 
